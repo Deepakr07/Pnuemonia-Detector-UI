@@ -245,12 +245,7 @@ body {
   align-items: flex-start;
 }
 
-.heading_container h2 {
-  position: relative;
-  font-weight: bold;
-  margin-bottom: 0;
-  
-}
+
 
 .heading_container p {
   margin-top: 10px;
